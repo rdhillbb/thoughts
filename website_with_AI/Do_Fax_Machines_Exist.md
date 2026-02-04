@@ -1,12 +1,3 @@
-# Thoughts
-
-## Directory
-
-- [AI Running A Website](./website_with_AI/Do_Fax_Machines_Exist.md)
-- [Thoughts From the Road to San Jose](./Riding_with_my_Grandfather_While_Black/Thoughts-from-the-Road-to-San-Jose.md)
-
----
-
 # I Haven't Seen a Fax Machine in 20 Years. So I Built One.
 
 I have not posted in a long while.
